@@ -304,6 +304,7 @@ $ grunt test
 # install node modules
 $ npm install
 # install bower components
+$ npm install -g bower
 $ bower install
 ```
 ```bash
